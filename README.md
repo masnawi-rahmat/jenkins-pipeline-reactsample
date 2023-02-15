@@ -1,4 +1,4 @@
-# jenkins-pipeline-reactsample A
+# jenkins-pipeline-reactsample
 
 A simple maven project to get started with jenkins and docker.
 
