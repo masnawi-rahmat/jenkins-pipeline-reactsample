@@ -1,3 +1,5 @@
 /* App.css */
 .App-logo {
-  animation: App-logo
+  animation: App-logo 1.5s ease-in-out infinite;
+}
+
