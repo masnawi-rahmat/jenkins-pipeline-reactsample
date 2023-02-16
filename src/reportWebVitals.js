@@ -9,3 +9,5 @@ export function reportWebVitals(onPerfEntry) {
     });
   }
 }
+export default reportWebVitals;
+
