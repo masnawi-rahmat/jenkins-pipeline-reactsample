@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                //sh 'npm install web-vitals -y'
+                sh 'npm install web-vitals'
                 sh 'npm install'
                 sh 'npm run build'
             }
